@@ -1,0 +1,16 @@
+84b1df9 HEAD@{0}: merge develop: Fast-forward
+ec7a67a HEAD@{1}: checkout: moving from develop to master
+84b1df9 HEAD@{2}: commit (merge): Fixed conflict in index.html in task1.1
+c238b7d HEAD@{3}: merge images: Fast-forward
+72e39c7 HEAD@{4}: checkout: moving from styles to develop
+e9e29ff HEAD@{5}: commit: Added styles and modified index.html in task1.1
+72e39c7 HEAD@{6}: checkout: moving from develop to styles
+72e39c7 HEAD@{7}: checkout: moving from styles to develop
+72e39c7 HEAD@{8}: checkout: moving from develop to styles
+72e39c7 HEAD@{9}: checkout: moving from images to develop
+c238b7d HEAD@{10}: commit: Added image src to index.html in task1.1
+7187d22 HEAD@{11}: commit: Added images to task1.1
+72e39c7 HEAD@{12}: checkout: moving from develop to images
+72e39c7 HEAD@{13}: commit: Added index.html to task1.1
+ec7a67a HEAD@{14}: checkout: moving from master to develop
+ec7a67a HEAD@{15}: commit (initial): Added task1.1
