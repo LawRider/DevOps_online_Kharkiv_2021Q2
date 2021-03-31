@@ -17,8 +17,8 @@
 ![alt text](https://github.com/LawRider/DevOps_online_Kharkiv_2021Q2/blob/master/task3.1/15.png)\
 ![alt text](https://github.com/LawRider/DevOps_online_Kharkiv_2021Q2/blob/master/task3.1/16.png)\
 ![alt text](https://github.com/LawRider/DevOps_online_Kharkiv_2021Q2/blob/master/task3.1/17.png)\
-![alt text](https://github.com/LawRider/DevOps_online_Kharkiv_2021Q2/blob/master/task3.1/18.png)\\
+![alt text](https://github.com/LawRider/DevOps_online_Kharkiv_2021Q2/blob/master/task3.1/18.png)\
 ![alt text](https://github.com/LawRider/DevOps_online_Kharkiv_2021Q2/blob/master/task3.1/19.png)\
 ![alt text](https://github.com/LawRider/DevOps_online_Kharkiv_2021Q2/blob/master/task3.1/20.png)\
-![alt text](https://github.com/LawRider/DevOps_online_Kharkiv_2021Q2/blob/master/task3.1/21.png)\
+![alt text](https://github.com/LawRider/DevOps_online_Kharkiv_2021Q2/blob/master/task3.1/21.png)
 
